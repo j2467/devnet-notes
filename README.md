@@ -31,6 +31,8 @@ staging
 index
 local workspace
 
+
+Removing this. 
 # Chapter 2
 
 
